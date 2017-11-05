@@ -4,6 +4,10 @@
 # Fixes img tags accordingly.
 # Overwrites the original HTML file.
 
+# Usage:  unembedpng.py <filename>.html
+
+# Generated files: <filename>_image0.png, <filename>_image1.png, etc.
+
 import sys
 from bs4 import BeautifulSoup
 from binascii import a2b_base64
