@@ -1,4 +1,4 @@
-Python Programlamaya Giriş -- Kaan Öztürk
+Python Programlamaya Giriş
 ============================
 
 1. [İlk Adımlar](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20%C4%B0lk%20Ad%C4%B1mlar.ipynb)
