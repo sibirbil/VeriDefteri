@@ -8,3 +8,4 @@ Python Programlamaya Giriş
 1. [Döngülerle Problem Çözme](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20D%C3%B6ng%C3%BClerle%20problem%20%C3%A7%C3%B6zme.ipynb)
 1. [Döngü Alıştırmaları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20D%C3%B6ng%C3%BC%20Al%C4%B1%C5%9Ft%C4%B1rmalar%C4%B1.ipynb)
 1. [Fonksiyonlar](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Fonksiyonlar.ipynb)
+1. [Fonksiyon parametreleri](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Fonksiyon%20parametreleri.ipynb)
