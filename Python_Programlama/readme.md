@@ -13,3 +13,4 @@ Python Programlamaya Giriş
 1. [Fonksiyon alıştırmaları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Fonksiyon%20Al%C4%B1%C5%9Ft%C4%B1rmalar%C4%B1.ipynb)
 1. [İsimsiz fonksiyonlar](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20%C4%B0simsiz%20fonksiyonlar.ipynb)
 1. [Sıralı nesnelerle işlemler](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20S%C4%B1ral%C4%B1%20nesnelerle%20i%C5%9Flemler.ipynb)
+1. [Liste metodları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Liste%20metodlar%C4%B1.ipynb)
