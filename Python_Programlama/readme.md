@@ -15,3 +15,5 @@ Python Programlamaya Giriş
 1. [Sıralı nesnelerle işlemler](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20S%C4%B1ral%C4%B1%20nesnelerle%20i%C5%9Flemler.ipynb)
 1. [Liste metodları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Liste%20metodlar%C4%B1.ipynb)
 1. [Dize metodları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Dize%20metodlar%C4%B1.ipynb)
+1. [Dize biçimlendirme](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20Dize%20bi%C3%A7imlendirme.ipynb)
+1 [Küme metodları](https://github.com/sibirbil/VeriDefteri/blob/master/Python_Programlama/Python%20Programlamaya%20Giri%C5%9F%20-%20K%C3%BCme%20metodlar%C4%B1.ipynb)
